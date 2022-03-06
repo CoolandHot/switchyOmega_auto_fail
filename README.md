@@ -8,8 +8,8 @@ Profiles that works:
 - [x] [Direct]
 - [x] [System Proxy]
 - [x] Proxy Profile
-- [] Switch Profile
-- [] PAC Profile
+- [ ] Switch Profile
+- [ ] PAC Profile
 
 Besides, the system level PAC mode in winXray was not working, either. 
 
